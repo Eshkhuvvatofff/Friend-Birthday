@@ -1,3 +1,9 @@
+.nedmr{
+  transform: translateX(95px);
+}
+
+
+
 /* Absolute Center CSS Spinner */
 .loading {
   position: fixed;
