@@ -1084,20 +1084,7 @@ audio {
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
 	background-size: 100px 183px;
-	/* ... existing code ... */
 }
-
-/* Full responsive styles for balloons */
-@media only screen and (max-width: 720px) {
-	.balloons {
-		width: 80px; /* Adjust width for smaller screens */
-		height: 150px; /* Adjust height for smaller screens */
-	}
-}
-
-
-
-
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
