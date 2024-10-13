@@ -1357,7 +1357,7 @@ o @keyframes bannar_come {
 #b5,
 #b55 {
 	background-image: url('b5.png');
-	margin-left: 5px !important;
+	margin-left: -10px !important;
 }
 
 #b6,
